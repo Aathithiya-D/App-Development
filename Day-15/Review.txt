@@ -1,2 +1,0 @@
-On Day-15, 
-	Review was carried out for the Implementation of Spring Security, JWT Token generation and CRUD Operations.
